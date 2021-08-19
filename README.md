@@ -33,7 +33,7 @@
 
 
 ## Goals: <br>
-- [ ]  **To add some custom animations(WebGL) to the blog.**
+- [ ]  **To add some custom animations(WebGL) to the <a href="https://maximums.github.io/">blog</a>.**
 - [ ]  Build more projects outside of University.
 - [ ]  Improve knowledge of numpy and pandas libraries.
 - [ ]  To study more deeply ML.
