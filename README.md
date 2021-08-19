@@ -1,10 +1,8 @@
-### Hi there 👋
+<p align="center">
+<img src="https://user-images.githubusercontent.com/42089527/130057764-f5dd5925-458e-43d3-b893-0c78940a3a00.png" alt="my banner">
+<h2 align="center">Hi there, I'm Cristian 👋</h2>
+</p>
 
-
-<!-- **maximums/maximums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- -->
 - 🔭 I’m currently working on my personal blog
 - 🌱 I’m currently learning ML
 ## Languages and tools: <br>
@@ -30,9 +28,13 @@ Here are some ideas to get you started:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+[![Maximums’s github stats](https://github-readme-stats.vercel.app/api?username=maximums)](https://github.com/maximums) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximums&layout=compact)](https://github.com/maximums)
+
+
 ## Goals: <br>
 - [ ]  **To add some custom animations(WebGL) to the blog.**
-- [ ]  Build more projects outside of unit tests.
+- [ ]  Build more projects outside of University.
 - [ ]  Improve knowledge of numpy and pandas libraries.
 - [ ]  To study more deeply ML.
                                  
